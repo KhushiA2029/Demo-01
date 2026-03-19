@@ -1,0 +1,11 @@
+Step 1: Create a folder. Say "GIT_LAB"
+Step 2: Go inside the newly created folder "GIT_LAB"
+Step 3: Right-click, choose "show more options" then Open GIT Bash here"
+
+git status - it will say your file is untracked
+git add -A - adding a file to Git
+git status - now it will track your file
+
+local repository - remote repository
+
+
