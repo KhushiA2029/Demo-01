@@ -8,4 +8,7 @@ git status - now it will track your file
 
 local repository - remote repository
 
+git commit -am "committing"
+
+
 
